@@ -1,5 +1,5 @@
 # 안녕하세요👋
-[![나의 GitHub 상태](https://github-readme-stats.vercel.app/api?username=5vs8vt)](https://github.com/5vs8vt/github-readme-stats)
+[![나의 GitHub 상태](https://github-readme-stats.vercel.app/api?username=5vs8vt&locale=kr)](https://github.com/5vs8vt/github-readme-stats)
 ## 쓸 줄 아는 언어
 <div>
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black" />
